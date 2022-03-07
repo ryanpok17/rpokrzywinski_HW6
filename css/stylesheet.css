@@ -12,4 +12,4 @@ a{color: coral;text-decoration: none;}
 
 .bright{color: crimson;}
 
-table {border-collapse: collapse;}
+table, th, td {border: 1px solid;}
